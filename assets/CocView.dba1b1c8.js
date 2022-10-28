@@ -1,1 +1,0 @@
-import{_ as t,r as o,o as n,e as c,w as r,f as s}from"./index.cf4a00a5.js";const a={};function _(l,f){const e=o("el-button");return n(),c(e,null,{default:r(()=>[s("COC")]),_:1})}const p=t(a,[["render",_]]);export{p as default};
