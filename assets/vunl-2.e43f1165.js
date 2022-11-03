@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index.1c895e10.js";const n={data(){return{}},methods:{}};function r(c,s,a,_,p,l){return t(),o("h1",null,"\u672C\u9875\u9762\u8BB2\u7684\u662F\u8BBE\u5907\u56FA\u4EF6\u63D0\u53D6")}const d=e(n,[["render",r]]);export{d as default};
